@@ -1,4 +1,6 @@
-<meta name="google-site-verification" content="qbYujedzoFmmaL8OFfkLhNSvfYwF9gVQkNKi_ldbXxk" />
+<div align="center">
+  <meta name="google-site-verification" content="qbYujedzoFmmaL8OFfkLhNSvfYwF9gVQkNKi_ldbXxk" />
+</div>
 
 
 
